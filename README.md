@@ -1,0 +1,1 @@
+# full_shop_app
